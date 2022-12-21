@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lambda_UserRegistration
 {
-    internal class UserDetails
+    public class UserDetails
     {
         public static void Iteration(string userInput, string regexCondition)
         {
